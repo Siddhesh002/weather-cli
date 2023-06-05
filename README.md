@@ -82,4 +82,4 @@ cliw --city CITY_NAME
 
 > NOTE : This Procedure is based on Linux environment.
 
-Thank you visiting !
+Thank you !
