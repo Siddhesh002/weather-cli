@@ -12,7 +12,7 @@
 
 ## Demo
 
-<img src="demo/img.png" width="600" height="150" />
+<img src="demo/img.jpg" width="600" height="150" />
 
 ## About <a name = "about"></a>
 
@@ -44,7 +44,7 @@ Then add your API key to the .env file
 echo "API_KEY=your_api_key" >> weather_cli/.env
 ```
 
-### Instalations
+### Installations
 
 > A step-by-step series of examples that demonstrate how to set up a development environment.
 
