@@ -16,7 +16,7 @@
 
 ## About <a name = "about"></a>
 
-The Weather Pilot CLI is a command line interface that provides weather information for a specific location. The [OpenWeather API](https://openweathermap.org/api)is used to create the CLI. The [Click](https://click.palletsprojects.com/en/7.x/) library is used to create the CLI.
+The Weather CLI is a command line interface that provides weather information for a specific location. The [OpenWeather API](https://openweathermap.org/api)is used to get weather information for specific location. The [Click](https://click.palletsprojects.com/en/7.x/) library is used to create the CLI.
 
 ## Getting Started <a name = "getting_started"></a>
 
@@ -25,7 +25,7 @@ Follow the below instructions to get this project running on your local machine 
 cloning the repository
 
 ```bash
-git clone https://github.com/mahimairaja/weather-pilot-cli.git
+git clone https://github.com/Siddhesh002/weather-cli.git
 ```
 
 change directory
